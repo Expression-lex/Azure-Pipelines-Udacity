@@ -1,0 +1,9 @@
+{
+	"name": "adf-udacity-alexa",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "49b5b14b-73a4-4657-acf7-dc8097e09d79",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
